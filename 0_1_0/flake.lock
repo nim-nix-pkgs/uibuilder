@@ -385,20 +385,20 @@
         "type": "github"
       }
     },
-    "src-q-master_2": {
+    "src-ui-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1642128133,
-        "narHash": "sha256-juYoPW1pIizSNeEf203gs/3zm64iHxzV41fKFeSuqaY=",
-        "owner": "OpenSystemsLab",
-        "repo": "q.nim",
-        "rev": "7931d15c8e5bbd50a3d1188fc95fd9fd347cb130",
+        "lastModified": 1634117726,
+        "narHash": "sha256-rcvC0TO1r2zU7WEYfcsi/qX+nRITwKj7Fkqd4fHgTwU=",
+        "owner": "nim-lang",
+        "repo": "ui",
+        "rev": "547e1cea8e9fb68c138c422b77af0a3152e50210",
         "type": "github"
       },
       "original": {
-        "owner": "OpenSystemsLab",
+        "owner": "nim-lang",
         "ref": "refs/heads/master",
-        "repo": "q.nim",
+        "repo": "ui",
         "type": "github"
       }
     },
@@ -430,11 +430,11 @@
         "ui-master": "ui-master"
       },
       "locked": {
-        "lastModified": 1647060104,
-        "narHash": "sha256-znN/4HDJxOPcLAwQ9uDofUxJEqWCfG8iTvgKd+VHnlQ=",
+        "lastModified": 1647112070,
+        "narHash": "sha256-5hFGf9FSgs1PO5+iHap/g+K1kN8YlkbXyvJ0HxvUl+w=",
         "owner": "nim-nix-pkgs",
         "repo": "ui",
-        "rev": "52933f7003536589201e0a805c82e4b8177f4a98",
+        "rev": "20c26796cf879cada5a1eebd51b9f06667abdcfe",
         "type": "github"
       },
       "original": {
@@ -454,16 +454,23 @@
           "ui",
           "nixpkgs"
         ],
-        "src-q-master": "src-q-master_2"
+        "src-ui-master": "src-ui-master"
       },
       "locked": {
-        "narHash": "sha256-6fc51EssQRDSTzH5tagB0px8sHNdWMD9wBCTfRfpgp4=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647112070,
+        "narHash": "sha256-5hFGf9FSgs1PO5+iHap/g+K1kN8YlkbXyvJ0HxvUl+w=",
+        "owner": "nim-nix-pkgs",
+        "repo": "ui",
+        "rev": "20c26796cf879cada5a1eebd51b9f06667abdcfe",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "ui",
+        "type": "github"
       }
     }
   },
