@@ -50,11 +50,11 @@
         "q-master": "q-master"
       },
       "locked": {
-        "lastModified": 1647059041,
-        "narHash": "sha256-zdzDNwhS2qgHXd0M4bsW+n7IPPhtAwO9ntj/qVVrZsU=",
+        "lastModified": 1647113215,
+        "narHash": "sha256-Uy+4v0oNxeAp8eWf5Otp+7PLq2jlYSoenGrXS8+EwDw=",
         "owner": "nim-nix-pkgs",
         "repo": "q",
-        "rev": "33569c6dc2488fa202915858fb79ab9cbf932f3a",
+        "rev": "08991975f3beaefc16a174f964ffa334ba244591",
         "type": "github"
       },
       "original": {
@@ -77,13 +77,20 @@
         "src-q-0_0_2": "src-q-0_0_2"
       },
       "locked": {
-        "narHash": "sha256-EUvxJAWgXWdX6IRt6RtZm4ZUbsXK0XEluvs+AJkpbUE=",
-        "path": "./0_0_2",
-        "type": "path"
+        "dir": "0_0_2",
+        "lastModified": 1647113215,
+        "narHash": "sha256-Uy+4v0oNxeAp8eWf5Otp+7PLq2jlYSoenGrXS8+EwDw=",
+        "owner": "nim-nix-pkgs",
+        "repo": "q",
+        "rev": "08991975f3beaefc16a174f964ffa334ba244591",
+        "type": "github"
       },
       "original": {
-        "path": "./0_0_2",
-        "type": "path"
+        "dir": "0_0_2",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "q",
+        "type": "github"
       }
     },
     "q-0_0_3": {
@@ -99,13 +106,20 @@
         "src-q-0_0_3": "src-q-0_0_3"
       },
       "locked": {
-        "narHash": "sha256-zE/H9qMovHmYny7mMmwf8RHLavvvlOCZE45INWxRpkE=",
-        "path": "./0_0_3",
-        "type": "path"
+        "dir": "0_0_3",
+        "lastModified": 1647113215,
+        "narHash": "sha256-Uy+4v0oNxeAp8eWf5Otp+7PLq2jlYSoenGrXS8+EwDw=",
+        "owner": "nim-nix-pkgs",
+        "repo": "q",
+        "rev": "08991975f3beaefc16a174f964ffa334ba244591",
+        "type": "github"
       },
       "original": {
-        "path": "./0_0_3",
-        "type": "path"
+        "dir": "0_0_3",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "q",
+        "type": "github"
       }
     },
     "q-0_0_4": {
@@ -121,13 +135,20 @@
         "src-q-0_0_4": "src-q-0_0_4"
       },
       "locked": {
-        "narHash": "sha256-hOc36rBFsOCmWAW5FWL6HZDYrvxhE5FbgEzvLYj86es=",
-        "path": "./0_0_4",
-        "type": "path"
+        "dir": "0_0_4",
+        "lastModified": 1647113215,
+        "narHash": "sha256-Uy+4v0oNxeAp8eWf5Otp+7PLq2jlYSoenGrXS8+EwDw=",
+        "owner": "nim-nix-pkgs",
+        "repo": "q",
+        "rev": "08991975f3beaefc16a174f964ffa334ba244591",
+        "type": "github"
       },
       "original": {
-        "path": "./0_0_4",
-        "type": "path"
+        "dir": "0_0_4",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "q",
+        "type": "github"
       }
     },
     "q-0_0_5": {
@@ -143,13 +164,20 @@
         "src-q-0_0_5": "src-q-0_0_5"
       },
       "locked": {
-        "narHash": "sha256-FPkwMUZppwbgLLj6+kji7CeQ8GOpNbPeFSmmkUq7gNI=",
-        "path": "./0_0_5",
-        "type": "path"
+        "dir": "0_0_5",
+        "lastModified": 1647113215,
+        "narHash": "sha256-Uy+4v0oNxeAp8eWf5Otp+7PLq2jlYSoenGrXS8+EwDw=",
+        "owner": "nim-nix-pkgs",
+        "repo": "q",
+        "rev": "08991975f3beaefc16a174f964ffa334ba244591",
+        "type": "github"
       },
       "original": {
-        "path": "./0_0_5",
-        "type": "path"
+        "dir": "0_0_5",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "q",
+        "type": "github"
       }
     },
     "q-0_0_6": {
@@ -165,13 +193,20 @@
         "src-q-0_0_6": "src-q-0_0_6"
       },
       "locked": {
-        "narHash": "sha256-jc/cacbKqq17KEvINFepP7cS9OazA7ZIYqeH+UKoPqI=",
-        "path": "./0_0_6",
-        "type": "path"
+        "dir": "0_0_6",
+        "lastModified": 1647113215,
+        "narHash": "sha256-Uy+4v0oNxeAp8eWf5Otp+7PLq2jlYSoenGrXS8+EwDw=",
+        "owner": "nim-nix-pkgs",
+        "repo": "q",
+        "rev": "08991975f3beaefc16a174f964ffa334ba244591",
+        "type": "github"
       },
       "original": {
-        "path": "./0_0_6",
-        "type": "path"
+        "dir": "0_0_6",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "q",
+        "type": "github"
       }
     },
     "q-0_0_7": {
@@ -187,13 +222,20 @@
         "src-q-0_0_7": "src-q-0_0_7"
       },
       "locked": {
-        "narHash": "sha256-yVrgLdlf/m4qQuiy26bsgSx8CUpa3iDSjwzPfSpF8qA=",
-        "path": "./0_0_7",
-        "type": "path"
+        "dir": "0_0_7",
+        "lastModified": 1647113215,
+        "narHash": "sha256-Uy+4v0oNxeAp8eWf5Otp+7PLq2jlYSoenGrXS8+EwDw=",
+        "owner": "nim-nix-pkgs",
+        "repo": "q",
+        "rev": "08991975f3beaefc16a174f964ffa334ba244591",
+        "type": "github"
       },
       "original": {
-        "path": "./0_0_7",
-        "type": "path"
+        "dir": "0_0_7",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "q",
+        "type": "github"
       }
     },
     "q-0_0_8": {
@@ -209,13 +251,20 @@
         "src-q-0_0_8": "src-q-0_0_8"
       },
       "locked": {
-        "narHash": "sha256-ez2dG+tzE94jgbT1WoQhjUs/cpnWml6F0sbrAcHOYCI=",
-        "path": "./0_0_8",
-        "type": "path"
+        "dir": "0_0_8",
+        "lastModified": 1647113215,
+        "narHash": "sha256-Uy+4v0oNxeAp8eWf5Otp+7PLq2jlYSoenGrXS8+EwDw=",
+        "owner": "nim-nix-pkgs",
+        "repo": "q",
+        "rev": "08991975f3beaefc16a174f964ffa334ba244591",
+        "type": "github"
       },
       "original": {
-        "path": "./0_0_8",
-        "type": "path"
+        "dir": "0_0_8",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "q",
+        "type": "github"
       }
     },
     "q-master": {
@@ -231,13 +280,20 @@
         "src-q-master": "src-q-master"
       },
       "locked": {
-        "narHash": "sha256-6fc51EssQRDSTzH5tagB0px8sHNdWMD9wBCTfRfpgp4=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647113215,
+        "narHash": "sha256-Uy+4v0oNxeAp8eWf5Otp+7PLq2jlYSoenGrXS8+EwDw=",
+        "owner": "nim-nix-pkgs",
+        "repo": "q",
+        "rev": "08991975f3beaefc16a174f964ffa334ba244591",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "q",
+        "type": "github"
       }
     },
     "root": {
