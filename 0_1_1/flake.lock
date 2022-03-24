@@ -44,11 +44,11 @@
       },
       "locked": {
         "dir": "0_0_8",
-        "lastModified": 1648108016,
-        "narHash": "sha256-swFE0s1ql03ZEfPJGiDb7zWNjZqGKGsJoq2juDV5csQ=",
+        "lastModified": 1648163511,
+        "narHash": "sha256-7QGDlIUlDcGSg/KYefqmIEBAs3SDeVe2rIWf8z4MnNs=",
         "owner": "nim-nix-pkgs",
         "repo": "q",
-        "rev": "81d599e98ea70cd1406ca5f7d4741d6bc09c6324",
+        "rev": "5ccd7bc9ddbb08c5a8640240c639d5b8e8a735e0",
         "type": "github"
       },
       "original": {
@@ -127,42 +127,15 @@
         "nixpkgs": [
           "nixpkgs"
         ],
-        "ui-master": "ui-master"
-      },
-      "locked": {
-        "lastModified": 1648108191,
-        "narHash": "sha256-H7qL2PR4tUPpwQk2RF/hQQqF0DUgKfJpcvsk5llDgHk=",
-        "owner": "nim-nix-pkgs",
-        "repo": "ui",
-        "rev": "88e9a2d17702cfbd8079972b2df21626726bb2c8",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "ui",
-        "type": "github"
-      }
-    },
-    "ui-master": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "ui",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "ui",
-          "nixpkgs"
-        ],
         "src-ui-master": "src-ui-master"
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1648108191,
-        "narHash": "sha256-H7qL2PR4tUPpwQk2RF/hQQqF0DUgKfJpcvsk5llDgHk=",
+        "lastModified": 1648163708,
+        "narHash": "sha256-WeAVJUyOJ7DGPfHe/vab3vu+fv/tqEr3BR4GL9Wixn8=",
         "owner": "nim-nix-pkgs",
         "repo": "ui",
-        "rev": "88e9a2d17702cfbd8079972b2df21626726bb2c8",
+        "rev": "87bfc01abc430a67656db8c78afc016d0efb8473",
         "type": "github"
       },
       "original": {
