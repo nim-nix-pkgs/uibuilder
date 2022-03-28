@@ -21,13 +21,13 @@
   inputs."ui".inputs.nixpkgs.follows = "nixpkgs";
   inputs."ui".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
   
-  inputs."github.com/ba0f3/xml.nim@".owner = "nim-nix-pkgs";
-  inputs."github.com/ba0f3/xml.nim@".ref   = "master";
-  inputs."github.com/ba0f3/xml.nim@".repo  = "github.com/ba0f3/xml.nim@";
-  inputs."github.com/ba0f3/xml.nim@".dir   = "";
-  inputs."github.com/ba0f3/xml.nim@".type  = "github";
-  inputs."github.com/ba0f3/xml.nim@".inputs.nixpkgs.follows = "nixpkgs";
-  inputs."github.com/ba0f3/xml.nim@".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
+  inputs."xml".owner = "nim-nix-pkgs";
+  inputs."xml".ref   = "master";
+  inputs."xml".repo  = "xml";
+  inputs."xml".dir   = "devel";
+  inputs."xml".type  = "github";
+  inputs."xml".inputs.nixpkgs.follows = "nixpkgs";
+  inputs."xml".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
   let 
